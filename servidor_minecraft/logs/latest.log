@@ -50,3 +50,14 @@
 [03:53:47] [Server thread/INFO]: Bluxx_rx1Q[/127.104.226.77:54943] logged in with entity id 505 at ([world]138.5, 78.0, 96.5)
 [03:57:27] [Server thread/INFO]: Bluxx_rx1Q lost connection: Disconnected
 [03:57:27] [Server thread/INFO]: Bluxx_rx1Q left the game
+[04:11:24] [User Authenticator #2/INFO]: UUID of player Bluxx_rx1Q is f00306a8-e9b6-39c5-9728-f575a91d732e
+[04:11:24] [Server thread/INFO]: Bluxx_rx1Q joined the game
+[04:11:24] [Server thread/INFO]: Bluxx_rx1Q[/127.104.226.77:42605] logged in with entity id 1007 at ([world]143.124914999396, 64.0, 86.99707398499206)
+[04:13:47] [Server thread/INFO]: Bluxx_rx1Q issued server command: /help
+[04:17:27] [Server thread/INFO]: Bluxx_rx1Q lost connection: Disconnected
+[04:17:27] [Server thread/INFO]: Bluxx_rx1Q left the game
+[04:17:30] [User Authenticator #3/INFO]: UUID of player Bluxx_rx1Q is f00306a8-e9b6-39c5-9728-f575a91d732e
+[04:17:30] [Server thread/INFO]: Bluxx_rx1Q joined the game
+[04:17:30] [Server thread/INFO]: Bluxx_rx1Q[/127.104.226.77:48921] logged in with entity id 1559 at ([world]150.3662205159183, 64.0, 87.40863306257992)
+[04:17:37] [Server thread/INFO]: Bluxx_rx1Q lost connection: Disconnected
+[04:17:37] [Server thread/INFO]: Bluxx_rx1Q left the game
